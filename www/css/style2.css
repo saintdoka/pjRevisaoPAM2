@@ -1,0 +1,24 @@
+/* This is a CSS file */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+body{
+    background-color: rgb(0, 85, 104);
+    color: rgb(252, 252, 252);
+}
+
+.titulo{
+    text-align: center;
+    font-size: 20px;
+}
+
+#geoloc{
+    margin-top: 20px;
+}
